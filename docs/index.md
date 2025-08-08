@@ -29,4 +29,4 @@ Although the chance of catastrophic server failure is very faint, BAILnas is pro
 
 # Contact
 
-For more information or requests email [Shaozhen Song](szsong@uw.edu).
+For more information or requests email [Thanu Kumar](thanu56@uw.edu).
